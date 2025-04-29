@@ -21,13 +21,13 @@
   "kv_namespaces": [
     {
       "binding": "HACKER_NEWS_KV",
-      "id": "4d458dadadea42f8b8198fe3e29f858d"
+      "id": "8fb402a9cd814360a5dcff2422766438"
     }
   ],
   "r2_buckets": [
     {
       "binding": "HACKER_NEWS_R2",
-      "bucket_name": "hacker-news-r2"
+      "bucket_name": "talkingweb3-news"
     },
     {
       "binding": "NEXT_INC_CACHE_R2_BUCKET",
